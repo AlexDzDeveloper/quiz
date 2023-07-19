@@ -1,0 +1,19 @@
+{
+  "name": "quiz_project",
+  "version": "1.0.0",
+  "description": "little quize project, written on JS ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDzDeveloper/quiz.git"
+  },
+  "author": "AlexDz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexDzDeveloper/quiz/issues"
+  },
+  "homepage": "https://github.com/AlexDzDeveloper/quiz#readme"
+}
